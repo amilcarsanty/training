@@ -1,0 +1,20 @@
+body {
+    background-color: #262424;
+    font-family: "Roboto Slab", sans-serif;
+    font-size: 40px;
+}
+
+#demo {
+    color: rgb(6, 111, 30);
+}
+
+#title {
+    color: rgb(137, 22, 150);
+}
+
+/** width: 80%; */
+/** box-sizing: border-box; */
+
+.container {
+    background-color: blueviolet;
+}
